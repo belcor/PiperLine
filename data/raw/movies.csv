@@ -1,0 +1,32 @@
+title,year,rating,genre,director,language
+The Matrix,1999,8.7,Action,Sisters Wachowski,English
+Inception,2010,8.8,Sci-Fi,Christopher Nolan,English
+La La Land,2016,8.0,Musical,Damien Chazelle,English
+Parasite,2019,8.6,Thriller,Bong Joon-ho,Korean
+Spirited Away,2001,8.6,Animation,Hayao Miyazaki,Japanese
+Amélie,2001,8.3,Romance,Jean-Pierre Jeunet,French
+The Godfather,1972,9.2,Crime,Francis Ford Coppola,English
+The Shawshank Redemption,1994,9.3,Drama,Frank Darabont,English
+Titanic,1997,7.8,Romance,James Cameron,English
+The Dark Knight,2008,9.0,Action,Christopher Nolan,English
+City of God,2002,8.6,Crime,Fernando Meirelles,Portuguese
+The Matrix,1999,8.7,Action,Sisters Wachowski,English
+Interstellar,2014,,Sci-Fi,Christopher Nolan,English
+The Room,2003,3.7,Drama,Tommy Wiseau,English
+Pulp Fiction,1994,8.9,Crime,Quentin Tarantino,English
+Coco,2017,8.4,Animation,Lee Unkrich,Spanish
+The Lion King,1994,8.5,Animation,Roger Allers,English
+The Matrix Reloaded,2003,7.2,Action,Wachowski Sisters,English
+Unknown Title,,7.5,Drama,Jane Doe,English
+Invisible Man,2020,7.1,Horror,Leigh Whannell,English
+Casablanca,1942,8.5,Romance,Michael Curtiz,English
+The Avengers,2012,8.0,Action,Joss Whedon,English
+Mad Max: Fury Road,2015,8.1,Action,George Miller,English
+Toy Story,1995,8.3,Animation,John Lasseter,English
+The Matrix,1999,8.7,Action,Sisters Wachowski,English
+Interstellar,2014,8.6,Sci-Fi,Christopher Nolan,English
+Schindler's List,1993,8.9,History,Steven Spielberg,English
+Your Name,2016,8.4,Animation,Makoto Shinkai,Japanese
+Movie Without Genre,2005,6.5,,Unknown,English
+Bad Data,,not_a_number,Mystery,Unknown,English
+Broken Line,2018,7.0,Drama,,English
